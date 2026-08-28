@@ -12,7 +12,7 @@ This project checks whether that's actually true — three times, at three diffe
 - **From a plane (South-East Asia):** Is this region getting all that money? *Sort of* — the total isn't growing much, but *who's* sending the money is changing a lot: more of it is coming from China itself, not from Western companies "escaping" China.
 - **From the street (Malaysia):** Is Malaysia specifically winning? *In one clear way, yes* (Japan is investing heavily in data centres); *in another way, it's genuinely messy* (China's investment jumps up and down for reasons that aren't fully clean to explain).
 
-The short answer: the popular story is partly true, but the full picture is more interesting — and more useful for a business to actually act on — than the one-line version everyone repeats. (New to terms like "FDI" or "CAGR"? See the [Glossary](#glossary) near the bottom.)
+The short answer: the popular story is partly true, but the full picture is more interesting — and more useful for a business to actually act on — than the one-line version everyone repeats. (New to terms like "FDI" or "China+1"? See the [Glossary](#glossary) near the bottom.)
 
 ## The Question
 
