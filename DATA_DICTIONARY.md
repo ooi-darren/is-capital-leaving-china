@@ -4,6 +4,8 @@ This document defines every variable used in the "Is Capital Really Leaving Chin
 
 **Data quality is uneven across the three tiers by design of the topic** — global and regional statistical agencies publish clean structured time series; Malaysia-specific figures had to be hand-compiled from a series of press releases, and are noticeably less complete. This is stated plainly rather than smoothed over.
 
+**A separate "Why Is This Happening?" section at the end of each notebook adds qualitative context** — secondary-sourced explanations (news reporting, industry analysis) for the mechanism behind each quantitative finding below. That content is deliberately *not* classified PUBLIC/DERIVED/ESTIMATED like the datasets in this file, since it's explanatory reporting rather than a number this project is asserting — full citations are in [`references/SOURCES.md`](./references/SOURCES.md) under "Context / Secondary Sources."
+
 ---
 
 ## global_fdi_by_region.csv
