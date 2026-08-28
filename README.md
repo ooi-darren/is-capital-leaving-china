@@ -1,5 +1,7 @@
 # Is Capital Really Leaving China? Global → Regional → Local (2019–2026)
 
+<img src="./assets/hero.png" width="720" alt="China's own investment into ASEAN has nearly tripled since 2019">
+
 ## The Question
 
 The "China+1" narrative — that capital is diversifying away from China toward alternative manufacturing destinations — is now conventional business wisdom. Does it actually show up in the data, at the global level, the ASEAN regional level, and specifically in Malaysia? This case study runs the funnel top-down instead of starting from a single country, the way 001–004 did.
@@ -44,6 +46,15 @@ All three datasets are labeled **PUBLIC** (an official source fetched directly) 
 ## Methodology
 
 Business problem → objectives → data acquisition → cleaning → analysis → visualization → insight → recommendation, run once per geographic layer instead of once per sub-question within a single country. Each notebook opens with the question and the answer, then shows the reasoning between them — including where the popular narrative doesn't survive contact with the data, and where the data itself isn't good enough to fully settle the question.
+
+## Reproducing This Analysis
+
+```bash
+pip install -r requirements.txt
+jupyter notebook notebooks/
+```
+
+All data used is already included in `data/processed/` — notebooks read directly from there, so no external downloads are required to re-run the analysis.
 
 ## Repository Structure
 
