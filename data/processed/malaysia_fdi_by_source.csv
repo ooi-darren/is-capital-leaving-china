@@ -1,0 +1,11 @@
+source_country,period,period_type,fdi_approved_rm_billion,note
+China,2022,FY,55.4,"33.9% of total approved FI that year - China was the single dominant source"
+China,2023,FY,14.5,"Sharp drop from 2022; Netherlands (35.5) and Cayman Islands (43.7) led that year, likely reflecting holding-company/conduit jurisdictions rather than ultimate operating source - MIDA's 'ultimate source' methodology was only formalized in Dec 2023"
+China,2024,FY,28.2,"Third-largest source that year"
+China,2026,Q1,10.1,
+Japan,2023,H1,9.1,"First-half 2023 figure only, not comparable to the FY columns for other years"
+Japan,2025,Q1,1.6,"Base period for the Q1 2026 surge figure below"
+Japan,2026,Q1,21.5,"13.8x year-on-year surge vs. Q1 2025; largest single source that quarter, 93.6% into digital transformation projects"
+United States,2023,FY,21.5,
+United States,2024,FY,32.8,"Largest single source that year"
+United States,2026,Q1,10.1,
