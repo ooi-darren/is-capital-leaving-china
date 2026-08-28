@@ -2,17 +2,7 @@
 
 <img src="./assets/hero.png" width="720" alt="China's own investment into ASEAN has nearly tripled since 2019">
 
-## Explain It Simply
-
-Companies move their money and factories around the world all the time, chasing lower costs, new customers, or safer bets. For the last few years, business news has repeated one story: "companies are pulling money out of China and putting it into South-East Asia instead."
-
-This project checks whether that's actually true — three times, at three different zoom levels, like looking at a map from space, then from a plane, then from the street:
-
-- **From space (the whole world):** Is money really leaving China for good? *Yes, a little* — but the countries gaining from it aren't the ones the story usually names.
-- **From a plane (South-East Asia):** Is this region getting all that money? *Sort of* — the total isn't growing much, but *who's* sending the money is changing a lot: more of it is coming from China itself, not from Western companies "escaping" China.
-- **From the street (Malaysia):** Is Malaysia specifically winning? *In one clear way, yes* (Japan is investing heavily in data centres); *in another way, it's genuinely messy* (China's investment jumps up and down for reasons that aren't fully clean to explain).
-
-The short answer: the popular story is partly true, but the full picture is more interesting — and more useful for a business to actually act on — than the one-line version everyone repeats. (New to terms like "FDI" or "China+1"? See the [Glossary](#glossary) near the bottom.)
+**Part of a [5-case-study portfolio](https://github.com/ooi-darren)** — see the other four.
 
 ## The Question
 
@@ -32,6 +22,18 @@ The "China+1" narrative — that capital is diversifying away from China toward 
 
 **3. Local: Malaysia has one sharp, real capture story (Japan) and one much noisier one (China).** Japan's Q1 2026 investment into Malaysia surged 13.8x year-on-year to RM21.5 billion, 93.6% into digital transformation — consistent with Malaysia's independent ranking as a top-ten global data-centre destination (UNCTAD). China's investment into Malaysia, by contrast, peaked in 2022 (RM55.4B), collapsed in 2023 (RM14.5B), and partially recovered in 2024 (RM28.2B) — a trajectory that mixes real investor behavior with a genuine MIDA methodology change, not a clean trend. *([Notebook 03](./notebooks/03-malaysia-local-capture.ipynb))*
 **Why:** Malaysia's Johor state is absorbing data-centre investment that Singapore's own 2019–2022 building limits pushed across the border — Japan's surge is riding that regional wave, not a Malaysia-specific policy shift. *(Full explanation in Notebook 03's "Why Is This Happening?" section.)*
+
+## Explain It Simply
+
+Companies move their money and factories around the world all the time, chasing lower costs, new customers, or safer bets. For the last few years, business news has repeated one story: "companies are pulling money out of China and putting it into South-East Asia instead."
+
+This project checks whether that's actually true — three times, at three different zoom levels, like looking at a map from space, then from a plane, then from the street:
+
+- **From space (the whole world):** Is money really leaving China for good? *Yes, a little* — but the countries gaining from it aren't the ones the story usually names.
+- **From a plane (South-East Asia):** Is this region getting all that money? *Sort of* — the total isn't growing much, but *who's* sending the money is changing a lot: more of it is coming from China itself, not from Western companies "escaping" China.
+- **From the street (Malaysia):** Is Malaysia specifically winning? *In one clear way, yes* (Japan is investing heavily in data centres); *in another way, it's genuinely messy* (China's investment jumps up and down for reasons that aren't fully clean to explain).
+
+The short answer: the popular story is partly true, but the full picture is more interesting — and more useful for a business to actually act on — than the one-line version everyone repeats. (New to terms like "FDI" or "China+1"? See the [Glossary](#glossary) near the bottom.)
 
 ## Why This Project
 
