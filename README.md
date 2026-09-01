@@ -2,7 +2,7 @@
 
 <img src="./assets/hero.png" width="720" alt="China's own investment into ASEAN has nearly tripled since 2019">
 
-**Part of an [9-case-study portfolio](https://github.com/ooi-darren)**. See the other seven.
+**Part of an [8-case-study portfolio](https://github.com/ooi-darren)**. See the other seven.
 
 ## The Question
 
