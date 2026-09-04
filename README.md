@@ -58,7 +58,7 @@ All three datasets are labeled **PUBLIC** (an official source fetched directly) 
 |---|---|---|
 | [01: Global FDI Trends](./notebooks/01-global-fdi-trends.ipynb) | Is capital really leaving China, globally, and where is it actually going? | PUBLIC |
 | [02: ASEAN Regional Capture](./notebooks/02-asean-regional-capture.ipynb) | Is ASEAN capturing the shift, and from whom specifically? | PUBLIC |
-| [03: Malaysia Local Capture](./notebooks/03-malaysia-local-capture.ipynb) | Is Malaysia winning share, and does the story hold up to scrutiny? | PUBLIC + DERIVED |
+| [03: Malaysia Local Capture](./notebooks/03-malaysia-local-capture.ipynb) | Is Malaysia winning share, and does the story hold up to scrutiny? | DERIVED |
 
 ## Methodology
 
